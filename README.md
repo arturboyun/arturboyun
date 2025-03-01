@@ -2,10 +2,10 @@
 
 
 ## Currently working with
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,nginx,vue,nuxt,tailwind,figma,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,nginx,vue,nuxt,tailwind,figma,linux)](https://arturboyun.com)
 
 ## Currently learning
-[![My Skills](https://skillicons.dev/icons?i=react,rust,tauri,)](arturboyun.t.me)
+[![My Skills](https://skillicons.dev/icons?i=react,rust,tauri,)](https://arturboyun.com)
 <!--
 **arturboyun/arturboyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
