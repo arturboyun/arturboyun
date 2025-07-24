@@ -11,4 +11,4 @@
 [![My Skills](https://skillicons.dev/icons?i=react,rust,tauri,)](https://arturboyun.com)
 
 # GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturboyun&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturboyun&layout=compact&theme=gruvbox)
