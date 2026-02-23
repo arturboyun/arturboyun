@@ -10,8 +10,5 @@
 ### Currently learning
 [![My Skills](https://skillicons.dev/icons?i=react,rust,tauri,)](https://arturboyun.com)
 
-### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturboyun&layout=compact&theme=gruvbox)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arturboyun&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
