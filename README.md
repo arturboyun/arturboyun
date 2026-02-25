@@ -5,7 +5,7 @@
 </picture>
 
 ### Currently working with
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,nginx,vue,nuxt,tailwind,figma,linux)](https://arturboyun.com)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,rabbitmq,docker,nginx,vue,nuxt,tailwind,figma,ubuntu)](https://arturboyun.com)
 
 ### Currently learning
-[![My Skills](https://skillicons.dev/icons?i=react,rust,tauri,)](https://arturboyun.com)
+[![My Skills](https://skillicons.dev/icons?i=rust,golang,)](https://arturboyun.com)
