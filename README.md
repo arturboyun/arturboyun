@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://arturboyun.com)
 
 ### Currently working with
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,rabbitmq,docker,nginx,vue,nuxt,tailwind,figma,ubuntu)](https://arturboyun.com)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,rabbitmq,docker,nginx,vue,nuxt,tailwind,figma)](https://arturboyun.com)
 
 ### Currently learning
 [![My Skills](https://skillicons.dev/icons?i=rust,golang,)](https://arturboyun.com)
