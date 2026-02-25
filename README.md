@@ -4,6 +4,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/athphane/athphane/output/github-contribution-grid-snake.svg" />
 </picture>
 
+### System
+[![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://arturboyun.com)
+
 ### Currently working with
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,rabbitmq,docker,nginx,vue,nuxt,tailwind,figma,ubuntu)](https://arturboyun.com)
 
